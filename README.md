@@ -7,6 +7,9 @@ Skrip sederhana yang digunakan untuk menghapus semua video yang diunggah di sebu
 - Mengambil daftar semua video yang ada di halaman.
 - Menghapus satu per satu dengan jeda waktu, untuk menghindari batasan API.
 
+## 🎥 How get Access Token?
+[![Demo Video](https://img.youtube.com/vi/VeF3FpFoHaM/0.jpg)](https://youtu.be/VeF3FpFoHaM?si=vKE8ZFbOuLibabax)  
+
 ## How to use?
 
 1. Clone repositori ini atau unduh file `delete_videos.py`:
